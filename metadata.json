@@ -1,0 +1,6 @@
+{
+  "name": "Antica Fornace - Pizzeria Napoletana",
+  "description": "Auténtica pizzería artesanal italiana con masa madre de 48 horas, 4 pizzas emblemáticas en 3 tamaños, carta de refrescos y bebidas, reservas y pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
